@@ -1,2 +1,1 @@
 # T0x1c's whitelist - one Fusion ID per line
-76561199082281563   # T0x1c
