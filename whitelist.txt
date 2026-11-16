@@ -1,2 +1,4 @@
 # T0x1c's whitelist - one Fusion ID per line
 76561199541302705   # MamaGuevo
+76561199263218989   # CA1B0N
+20081123   # MattyRatty
